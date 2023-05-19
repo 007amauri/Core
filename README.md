@@ -3,6 +3,7 @@ Core rank csgo com patente atualizado
 
 cd cd /var/www/html/modules/config_games/server_configs
 chmod 777 csgo_linux.xml
+mv csgo_linux.xml csgo_linux.xml.old
 sudo nano csgo_linux.xml
 
 https://forums.alliedmods.net/showthread.php?t=304501
