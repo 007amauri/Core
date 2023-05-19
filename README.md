@@ -1,6 +1,8 @@
 # Core
 Core rank csgo com patente atualizado
 
+sudo apt-get install lib32stdc++6
+
 cd cd /var/www/html/modules/config_games/server_configs
 
 chmod 777 csgo_linux.xml
